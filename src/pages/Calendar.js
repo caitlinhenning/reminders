@@ -89,7 +89,7 @@ function Calendar() {
 
   return (
     <div className="container">
-      <h1>Calendar</h1>
+      <h1>ToDo ToDay</h1>
       <ReminderForm onAddReminder={handleAddReminder} />
       <br></br>
       <span class="month-arrows">

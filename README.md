@@ -1,4 +1,4 @@
-## A Simple Calendar
+## ToDo ToDay
 
 ## How to deploy
  - Run `npm install` | `yarn install` to install all dependencies.
